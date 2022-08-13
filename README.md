@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @RJAofficial
-- 👀 I’m interested in lua, java, HTML, javascript, CSS
-- 🌱 I’m currently learning java
-- 📫 You can reach me on discord RJA#6325
+
